@@ -1,0 +1,23 @@
+{
+  "name": "moshify",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savgym/Moshify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savgym/Moshify/issues"
+  },
+  "homepage": "https://github.com/savgym/Moshify#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4",
+    "parcel-bundler": "^1.12.4"
+  }
+}
